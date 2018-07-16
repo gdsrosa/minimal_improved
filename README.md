@@ -24,4 +24,9 @@ ZSH_THEME=minimal_improved
 ```
 After save, your terminal should look like this:
 
-(https://raw.githubusercontent.com/gdsrosa/minimal_improved/master/minimal_improved_theme.png)
+<p align="center" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/gdsrosa/minimal_improved/master/minimal_improved_theme.png">
+  <br/>
+</p>
+
+
