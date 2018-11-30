@@ -5,7 +5,7 @@
 Clone this repo:
 
 ```
-$ git clone git@github.com:gdsrosa/minimal_improved.git 
+$ git clone https://github.com/gdsrosa/minimal_improved.git  
 $ cd minimal_improved
 ```
 
@@ -13,14 +13,14 @@ $ cd minimal_improved
 
 After cloning change to minimal_improved directory then move minimal_improved.zsh-theme to your oh-my-zsh directory
 ```
-$ mv minimal_improved.zsh-theme /your/oh-my-zsh/path/theme/
+$ mv minimal_improve.zsh-theme /your/oh-my-zsh/path/theme/
 ```
 
 Later go to your .zshrc file and change ZSH_THEME to this new one
 
 ```
 $ cd ~/.zshrc
-ZSH_THEME=minimal_improved
+ZSH_THEME=minimal_improve
 ```
 After save, your terminal should look like this:
 
