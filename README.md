@@ -1,5 +1,7 @@
 # Minimal Improved
 
+Minimal _Improved_. Super clean and minimal theme for Oh My ZSH. :sparkles:
+
 ## Getting Started
 
 Clone this repo:
@@ -11,22 +13,24 @@ $ cd minimal_improved
 
 ### Installing
 
-After cloning change to minimal_improved directory then move minimal_improved.zsh-theme to your oh-my-zsh directory
-```
-$ mv minimal_improve.zsh-theme /your/oh-my-zsh/path/theme/
-```
-
-Later go to your .zshrc file and change ZSH_THEME to this new one
+Once you're inside the `minimal_improved` directory, move the `minimal_improved.zsh-theme` file to your oh-my-zsh directory (usually `~/.oh-my-zsh`):
 
 ```
-$ cd ~/.zshrc
+$ mv minimal_improve.zsh-theme ~/.oh-my-zsh/themes/
+```
+
+Then go to your `~/.zshrc` file and change `ZSH_THEME` to `minimal_improve` using your favorite editor:
+
+```
+$ vim ~/.zshrc
 ZSH_THEME=minimal_improve
 ```
-After save, your terminal should look like this:
+
+For your changes to take immediate effect run `$ source ~/.zshrc` and your terminal will look like this:
 
 <p align="center" width="200" height="200">
   <img src="https://raw.githubusercontent.com/gdsrosa/minimal_improved/master/minimal_improved_theme.png">
   <br/>
 </p>
 
-
+Enjoy!
