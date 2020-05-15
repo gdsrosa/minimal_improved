@@ -19,7 +19,7 @@ Once you're inside the `minimal_improved` directory, move the `minimal_improved.
 $ mv minimal_improve.zsh-theme ~/.oh-my-zsh/themes/
 ```
 
-Then go to your `~/.zshrc` file and change `ZSH_THEME` to `minimal_improve` using your favorite editor:
+Then go to your `~/.zshrc` file and change `ZSH_THEME` to `minimal_improved` using your favorite editor:
 
 ```
 $ vim ~/.zshrc
