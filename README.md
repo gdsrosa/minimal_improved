@@ -16,14 +16,14 @@ $ cd minimal_improved
 Once you're inside the `minimal_improved` directory, move the `minimal_improved.zsh-theme` file to your oh-my-zsh directory (usually `~/.oh-my-zsh`):
 
 ```
-$ mv minimal_improve.zsh-theme ~/.oh-my-zsh/themes/
+$ mv minimal_improved.zsh-theme ~/.oh-my-zsh/themes/
 ```
 
 Then go to your `~/.zshrc` file and change `ZSH_THEME` to `minimal_improved` using your favorite editor:
 
 ```
 $ vim ~/.zshrc
-ZSH_THEME=minimal_improve
+ZSH_THEME=minimal_improved
 ```
 
 For your changes to take immediate effect run `$ source ~/.zshrc` and your terminal will look like this:
