@@ -23,7 +23,7 @@ Then go to your `~/.zshrc` file and change `ZSH_THEME` to `minimal_improved` usi
 
 ```
 $ vim ~/.zshrc
-ZSH_THEME=minimal_improved
+ZSH_THEME="minimal_improved"
 ```
 
 For your changes to take immediate effect run `$ source ~/.zshrc` and your terminal will look like this:
